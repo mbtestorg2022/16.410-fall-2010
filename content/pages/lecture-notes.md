@@ -37,7 +37,7 @@ Introduction \[BW, EF\]
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB]({{< baseurl >}}/resources/mit16_410f10_lec01a))
+([PDF - 1.0 MB]({{< baseurl >}}/resources/mit16_410f10_lec01a))
 
 ([PDF]({{< baseurl >}}/resources/mit16_410f10_lec01b))
 
@@ -53,7 +53,7 @@ Introduction \[BW, EF\]
 Foundations I: state space search \[BW\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec02))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,9 +121,9 @@ Introduction to operator-based planning \[BW\]
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec07a)) (With contributions from Patrick Prosser. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec07a)) (With contributions from Patrick Prosser. Used with permission.)
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec07b)) (With contributions from David Smith. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec07b)) (With contributions from David Smith. Used with permission.)
 
 
 {{< tdclose >}}
@@ -145,9 +145,9 @@ Planning II: plan extraction and analysis \[BW\]
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec08a)) (With contributions from Maria Fox. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec08a)) (With contributions from Maria Fox. Used with permission.)
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec08b)) (With contributions from Maria Fox. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec08b)) (With contributions from Maria Fox. Used with permission.)
 
 
 {{< tdclose >}}
@@ -161,7 +161,7 @@ Planning II: plan extraction and analysis \[BW\]
 Planning III: robust execution of temporal plans \[BW\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec09)) (With contributions from Andreas Hofmann and Julie Shah. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec09)) (With contributions from Andreas Hofmann and Julie Shah. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +173,7 @@ Planning III: robust execution of temporal plans \[BW\]
 Model-based reasoning I: propositional logic and satisfiability \[BW\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec10))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,9 +195,9 @@ Encoding planning problems as propositional logic satisfiability \[SK\]
 
 [DARPA Urban Challenge videos](http://www.ai.sri.com/~gerkey/movies/duc/)
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/mit16_410f10_lec11a))
+([PDF - 1.1 MB]({{< baseurl >}}/resources/mit16_410f10_lec11a))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec11b)) (Courtesy of Sertac Karaman. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec11b)) (Courtesy of Sertac Karaman. Used with permission.)
 
 
 {{< tdclose >}}
@@ -223,7 +223,7 @@ Midterm exam
 Model-based reasoning II: diagnosis and mode estimation \[BW\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 - 1.6MB]({{< baseurl >}}/resources/mit16_410f10_lec12a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 - 2.0MB]({{< baseurl >}}/resources/mit16_410f10_lec12b))
+([PDF 1 - 1.6MB]({{< baseurl >}}/resources/mit16_410f10_lec12a)) ([PDF 2 - 2.0MB]({{< baseurl >}}/resources/mit16_410f10_lec12b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +235,7 @@ Model-based reasoning II: diagnosis and mode estimation \[BW\]
 Model-based reasoning III: OpSat and conflict-directed A\* \[BW\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec13))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +247,7 @@ Model-based reasoning III: OpSat and conflict-directed A\* \[BW\]
 Global path planning I: informed search \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec14))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +259,7 @@ Global path planning I: informed search \[EF\]
 Global path planning II: sampling-based algorithms for motion planning \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit16_410f10_lec15))
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit16_410f10_lec15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +283,7 @@ Mathematical programming I \[EF\]
 Mathematical programming II: the simplex method \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec17))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec17))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +295,7 @@ Mathematical programming II: the simplex method \[EF\]
 Mathematical programming III: (mixed-integer) linear programming for vehicle routing and motion planning \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec18))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +307,7 @@ Mathematical programming III: (mixed-integer) linear programming for vehicle rou
 Reasoning in an uncertain world \[BW\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/mit16_410f10_lec19a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/mit16_410f10_lec19b))
+([PDF 1]({{< baseurl >}}/resources/mit16_410f10_lec19a)) ([PDF 2]({{< baseurl >}}/resources/mit16_410f10_lec19b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +319,7 @@ Reasoning in an uncertain world \[BW\]
 Inferring state in an uncertain world I: introduction to hidden Markov models \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec20))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec20))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +331,7 @@ Inferring state in an uncertain world I: introduction to hidden Markov models \[
 Inferring state in an uncertain world II: hidden Markov models, the Baum-Welch algorithm \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec21))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec21))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +343,7 @@ Inferring state in an uncertain world II: hidden Markov models, the Baum-Welch a
 Dynamic programming and machine learning I: Markov decision processes \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec22))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec22))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -355,7 +355,7 @@ Dynamic programming and machine learning I: Markov decision processes \[EF\]
 Dynamic programming and machine learning II: Markov decision processes, policy iteration \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec23))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec23))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +367,7 @@ Dynamic programming and machine learning II: Markov decision processes, policy i
 Game theory I: sequential games \[EF\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_410f10_lec24))
+([PDF]({{< baseurl >}}/resources/mit16_410f10_lec24))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -379,7 +379,7 @@ Game theory I: sequential games \[EF\]
 Game theory II: differential games \[SK\]
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mit16_410f10_lec25)) (Courtesy of Sertac Karaman. Used with permission.)
+([PDF - 1.7MB]({{< baseurl >}}/resources/mit16_410f10_lec25)) (Courtesy of Sertac Karaman. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
